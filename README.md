@@ -19,3 +19,4 @@ they let you use state and other react features without writing a class.
 usestat() hook allow us to track state in a functional component. State generally refers to data or properties that need to tracking in an application.
 
 # Props
+In React, Props is short for "Properties". It refers to the data that is passed from a parent component to a child component, allowing the child component to receive and use the data.
